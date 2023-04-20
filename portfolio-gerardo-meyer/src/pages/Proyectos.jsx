@@ -11,7 +11,7 @@ export default function Proyectos() {
                         Fue el primer proyecto del bootcamp, y fue una muy buena introducción
                         a las bases del desarrollo web.
                     </p>
-                    <button className='btn btn-primary'>Enlace Landing Page Gerardo</button>
+                    <a href='https://gerardomeyer.github.io/' target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Enlace Landing Page Gerardo</a>
                 </div>
 
                 <div className="col-lg-6">
@@ -34,7 +34,7 @@ export default function Proyectos() {
                         Fue el segundo proyecto del bootcamp, y fue un reto el comprender el funcionamiento 
                         del LocalStorage.
                     </p>
-                    <button className='btn btn-primary'>Enlace CRUD Gerardo</button>
+                    <a href='https://gerardomeyer.github.io/' target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Enlace CRUD Gerardo</a>
                 </div>
             </div>
         </div>
@@ -44,16 +44,16 @@ export default function Proyectos() {
         <div className="container" style={{padding: '5%'}}>
             <div className="row">
                 <div className="col-lg-6">
-                    <h2>Landing Page</h2>
+                    <h2>Dashboard App</h2>
                     <p>
-                        Fue el primer proyecto del bootcamp, y fue una muy buena introducción
-                        a las bases del desarrollo web.
+                        Fue el tercer proyecto del bootcamp, y lo retador en este fue el trabajo en equipo,
+                        el poder ponernos de acuerdo cómo ibamos a hacer el proyecto. 
                     </p>
-                    <button className='btn btn-primary'>Enlace Landing Page Gerardo</button>
+                    <a href='https://starwars-characters-generator.netlify.app/' target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Enlace Dashboard App Gerardo</a>
                 </div>
 
                 <div className="col-lg-6">
-                    <img src="https://i.ytimg.com/vi/OO_Osh3IFeM/maxresdefault.jpg" alt="" style={{maxWidth: '100%', borderRadius:'10%'}}/>
+                    <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/688227/retina_1708x683_cover-0823-DashboardDesign-Dan-Newsletter-4b673291c44139549875f88c8c1c9a60.png" alt="" style={{maxWidth: '100%', borderRadius:'10%'}}/>
                 </div>
             </div>
         </div>
@@ -72,7 +72,7 @@ export default function Proyectos() {
                         Fue el cuarto proyecto del bootcamp, y fue de gran ayuda, ya que aprendimos Firebase y
                         es una herramienta bastante útil y fácil de usar.
                     </p>
-                    <button className='btn btn-primary'>Enlace Dashboard Gerardo</button>
+                    <a href='https://starwars-characters-generator.netlify.app/' target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Enlace Dashboard Gerardo</a>
                 </div>
             </div>
         </div>
@@ -87,7 +87,7 @@ export default function Proyectos() {
                         Fue el ultimo proyecto del bootcamp, y fue todo un reto, ya que tuve que poner todos los conocimientos adquiridos
                         en un solo proyecto, fue sin duda el más complicado por obvias razones de todos los proyectos.
                     </p>
-                    <button className='btn btn-primary'>Enlace Ecommerce Page Gerardo</button>
+                    <a href='https://soft-tapioca-eaa3c4.netlify.app/' target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Enlace Ecommerce Page Gerardo</a>
                 </div>
 
                 <div className="col-lg-6">
