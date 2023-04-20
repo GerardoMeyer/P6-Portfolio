@@ -41,6 +41,7 @@ export default function Proyectos() {
 
         <hr />
 
+        {/* Contenedor */}
         <div className="container" style={{padding: '5%'}}>
             <div className="row">
                 <div className="col-lg-6">
