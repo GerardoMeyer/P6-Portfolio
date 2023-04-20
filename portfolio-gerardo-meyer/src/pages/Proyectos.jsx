@@ -34,7 +34,7 @@ export default function Proyectos() {
                         Fue el segundo proyecto del bootcamp, y fue un reto el comprender el funcionamiento 
                         del LocalStorage.
                     </p>
-                    <a href='https://gerardomeyer.github.io/' target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Enlace CRUD Gerardo</a>
+                    <a href='https://6440b08373d3ea25fa8d650b--resplendent-squirrel-1aac34.netlify.app/' target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Enlace CRUD Gerardo</a>
                 </div>
             </div>
         </div>
@@ -72,7 +72,7 @@ export default function Proyectos() {
                         Fue el cuarto proyecto del bootcamp, y fue de gran ayuda, ya que aprendimos Firebase y
                         es una herramienta bastante útil y fácil de usar.
                     </p>
-                    <a href='https://starwars-characters-generator.netlify.app/' target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Enlace Dashboard Gerardo</a>
+                    <a href='https://6440afd837e9e724718ff4cb--effervescent-babka-f688b0.netlify.app/' target="_blank" rel="noopener noreferrer" className='btn btn-primary'>Enlace Dashboard Gerardo</a>
                 </div>
             </div>
         </div>
